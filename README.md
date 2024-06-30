@@ -5,19 +5,27 @@ Kanban Board 2Sigma
 List of functionality
 
 Add new task card from modal with title, description, date/time, label and assigned user
+
 Move task card from one column to another 
+
 Edit task details in modal
+
 Delete task 
+
 add new task from any column
+
 add new column
+
 move task in new column
+
 rename column title
+
 sort task by title name
 
 ## Getting Started
 clone the project [here](https://github.com/Ranjan054/kanban-board)
 
-cd <project-directory>
+cd kanban-board
 
 npm install
 
